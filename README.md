@@ -1,7 +1,7 @@
 # 1 Project Structure
 
 ```
-inventory-pro-system
+inventory-system
 │
 ├── backend
 │   ├── server.js
@@ -33,8 +33,8 @@ inventory-pro-system
 # 2 Install Backend
 
 ```
-mkdir inventory-pro-system
-cd inventory-pro-system
+mkdir inventory-system
+cd inventory-system
 
 mkdir backend
 cd backend
@@ -355,22 +355,6 @@ Run
 ```
 docker-compose up
 ```
-
----
-
-# 11 System Features
-
-Professional system now includes:
-
-Dashboard
-Inventory tracking
-Stock history
-Barcode scanning
-Multi user login
-Admin role control
-CSV export
-REST API
-Docker deployment
 
 ---
 
